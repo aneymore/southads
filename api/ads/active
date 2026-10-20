@@ -1,0 +1,17 @@
+{
+  "ads": [
+    {
+      "id": "sample-ad",
+      "creatives": {
+        "goal": ["/creative/goal-1.svg"],
+        "preroll": ["/creative/logo.svg"],
+        "result": ["/creative/logo.svg"]
+      },
+      "advertiser": "샘플 광고",
+      "tagline": "\"여기에 광고 문구를 넣으세요\"",
+      "qrImage": "/creative/qr.svg",
+      "linkUrl": "https://example.com",
+      "slots": ["preroll", "goal", "result"]
+    }
+  ]
+}
