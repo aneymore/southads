@@ -1,17 +1,33 @@
 {
   "ads": [
     {
-      "id": "sample-ad",
+      "id": "d5e16514-b6bd-43ca-8d0d-c4cd80f5d6c7",
       "creatives": {
-        "goal": ["/creative/goal-1.svg"],
-        "preroll": ["/creative/logo.svg"],
-        "result": ["/creative/logo.svg"]
+        "goal": [
+          "/creative/d5e16514-b6bd-43ca-8d0d-c4cd80f5d6c7-goal-0.png"
+        ],
+        "preroll": [
+          "/creative/d5e16514-b6bd-43ca-8d0d-c4cd80f5d6c7-preroll-0.png"
+        ],
+        "result": [
+          "/creative/d5e16514-b6bd-43ca-8d0d-c4cd80f5d6c7-result-0.png"
+        ]
       },
-      "advertiser": "샘플 광고",
-      "tagline": "\"여기에 광고 문구를 넣으세요\"",
-      "qrImage": "/creative/qr.svg",
-      "linkUrl": "https://example.com",
-      "slots": ["preroll", "goal", "result"]
+      "wide": [
+        "/creative/d5e16514-b6bd-43ca-8d0d-c4cd80f5d6c7-wide-0.png"
+      ],
+      "square": [
+        "/creative/d5e16514-b6bd-43ca-8d0d-c4cd80f5d6c7-square-0.png"
+      ],
+      "advertiser": "코인피드",
+      "tagline": "\"코인,주식 핵심정보, 코인피드에서\"",
+      "qrImage": "/creative/d5e16514-b6bd-43ca-8d0d-c4cd80f5d6c7-qr.png",
+      "linkUrl": "https://marblerouletteshop.com/q/r738kd6p?c=1",
+      "slots": [
+        "preroll",
+        "goal",
+        "result"
+      ]
     }
   ]
 }

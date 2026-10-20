@@ -1,0 +1,26 @@
+{
+  "name": "southads",
+  "version": "1.0.0",
+  "description": "Marble Race ad site & syncer with 6-hour scheduler",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "sync": "node src/sync.js",
+    "schedule": "node src/scheduler.js"
+  },
+  "keywords": [
+    "marble-race",
+    "ads",
+    "syncer"
+  ],
+  "author": "aneymore",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "node-cron": "^3.0.3"
+  }
+}
