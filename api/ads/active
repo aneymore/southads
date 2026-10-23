@@ -1,28 +1,28 @@
 {
   "ads": [
     {
-      "id": "d5e16514-b6bd-43ca-8d0d-c4cd80f5d6c7",
+      "id": "0d8379e2-3a21-4e10-b355-21047e6e0dd1",
       "creatives": {
         "goal": [
-          "/creative/d5e16514-b6bd-43ca-8d0d-c4cd80f5d6c7-goal-0.png"
+          "/creative/0d8379e2-3a21-4e10-b355-21047e6e0dd1-goal-0.png"
         ],
         "preroll": [
-          "/creative/d5e16514-b6bd-43ca-8d0d-c4cd80f5d6c7-preroll-0.png"
+          "/creative/0d8379e2-3a21-4e10-b355-21047e6e0dd1-preroll-0.png"
         ],
         "result": [
-          "/creative/d5e16514-b6bd-43ca-8d0d-c4cd80f5d6c7-result-0.png"
+          "/creative/0d8379e2-3a21-4e10-b355-21047e6e0dd1-result-0.png"
         ]
       },
       "wide": [
-        "/creative/d5e16514-b6bd-43ca-8d0d-c4cd80f5d6c7-wide-0.png"
+        "/creative/0d8379e2-3a21-4e10-b355-21047e6e0dd1-wide-0.png"
       ],
       "square": [
-        "/creative/d5e16514-b6bd-43ca-8d0d-c4cd80f5d6c7-square-0.png"
+        "/creative/0d8379e2-3a21-4e10-b355-21047e6e0dd1-square-0.png"
       ],
       "advertiser": "코인피드",
       "tagline": "\"코인,주식 핵심정보, 코인피드에서\"",
-      "qrImage": "/creative/d5e16514-b6bd-43ca-8d0d-c4cd80f5d6c7-qr.png",
-      "linkUrl": "https://marblerouletteshop.com/q/r738kd6p?c=1",
+      "qrImage": "/creative/0d8379e2-3a21-4e10-b355-21047e6e0dd1-qr.png",
+      "linkUrl": "https://marblerouletteshop.com/q/s3n9g6n4?c=1",
       "slots": [
         "preroll",
         "goal",
