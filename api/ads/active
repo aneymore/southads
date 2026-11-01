@@ -28,6 +28,34 @@
         "goal",
         "result"
       ]
+    },
+    {
+      "id": "1ff86733-152e-4ab1-885a-9c29b0ff05c6",
+      "creatives": {
+        "goal": [
+          "/creative/1ff86733-152e-4ab1-885a-9c29b0ff05c6-goal-0.png"
+        ],
+        "preroll": [
+          "/creative/1ff86733-152e-4ab1-885a-9c29b0ff05c6-preroll-0.png"
+        ],
+        "result": [
+          "/creative/1ff86733-152e-4ab1-885a-9c29b0ff05c6-result-0.png"
+        ]
+      },
+      "wide": [
+        "/creative/1ff86733-152e-4ab1-885a-9c29b0ff05c6-wide-0.png"
+      ],
+      "square": [
+        "/creative/1ff86733-152e-4ab1-885a-9c29b0ff05c6-square-0.png"
+      ],
+      "advertiser": "주식회사비알티",
+      "qrImage": "/creative/1ff86733-152e-4ab1-885a-9c29b0ff05c6-qr.png",
+      "linkUrl": "https://marblerouletteshop.com/q/de8h9ezj?c=1",
+      "slots": [
+        "goal",
+        "result",
+        "preroll"
+      ]
     }
   ]
 }
